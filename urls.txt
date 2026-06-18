@@ -1,5 +1,3 @@
-# FACEBOOK 
-
 aboutfacebook.com
 accessfacebookfromschool.com
 acebooik.com
@@ -390,22 +388,20 @@ wwwmfacebook.com
 zuckerberg.com
 zuckerberg.net
 
-# Workplace
+
 facebookwork.com
 redkix.com
 workplace.com
 workplaceusecases.com
 
-full:fbcdn-a.akamaihd.net
+fbcdn-a.akamaihd.net
 
-# Ads/tracking
-analytics.facebook.com @ads
-facebookads.com @ads
-pixel.facebook.com @ads
 
-#########
+analytics.facebook.com
+facebookads.com
+pixel.facebook.com
 
-# INSTAGRAM
+
 
 achat-followers-instagram.com
 acheter-followers-instagram.com
@@ -480,15 +476,11 @@ onlineinstagram.com
 web-instagram.net
 wwwinstagram.com
 
-# Ads/tracking
-graph.instagram.com @ads
-graph-fallback.instagram.com @ads
+graph.instagram.com
+graph-fallback.instagram.com
 
-######
 
-# TWITTER
-
-ads-twitter.com @ads
+ads-twitter.com
 cms-twdigitalassets.com
 periscope.tv
 pscp.tv
@@ -512,5 +504,3 @@ twttr.net
 twvid.com
 vine.co
 x.com
-
-######
