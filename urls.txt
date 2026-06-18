@@ -504,3 +504,6 @@ twttr.net
 twvid.com
 vine.co
 x.com
+imgur.com
+imgur.io
+imgurinc.com
